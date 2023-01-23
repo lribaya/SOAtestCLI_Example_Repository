@@ -1,2 +1,2 @@
 # SOAtestCLI_Example_Repository
-API Tests
+Checked in SOAtest Projects
